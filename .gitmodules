@@ -1,0 +1,9 @@
+[submodule "ecsdemo-crystal"]
+	path = ecsdemo-crystal
+	url = https://github.com/sabiraha/eksworkshop.git
+[submodule "ecsdemo-frontend"]
+	path = ecsdemo-frontend
+	url = https://github.com/sabiraha/eksworkshop.git
+[submodule "ecsdemo-nodejs"]
+	path = ecsdemo-nodejs
+	url = https://github.com/sabiraha/eksworkshop.git
